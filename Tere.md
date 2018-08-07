@@ -6,7 +6,7 @@ Tere
 
 Mina olin siin, kus sina **olid**.
 
-| [./image1.png](./media/image1.png) |
+| [ff.png](ff.png) |
 |------------------------------------------|
 | Mida hekki.                              |
 

@@ -8,7 +8,7 @@ Mina olin siin, kus sina **olid**.
 
 | [ff.png](ff.png) |
 |------------------------------------------|
-| Mida hekki.                              |
+| Mida hekkiggg.                              |
 
 -   Tttt
 
